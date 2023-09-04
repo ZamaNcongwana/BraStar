@@ -333,9 +333,9 @@ $(document).ready(function()
 			$("#jplayer_2").jPlayer({
 		ready: function () {
 			$(this).jPlayer("setMedia", {
-				title:"04.Bekezela",
-					artist:"Bra Star",
-					mp3:"files/04.Bekezela.mp3"
+				title:"uMsebenzie bonus track",
+					artist:"Bra Star x Zama",
+					mp3:"files/bra star_uMsebenzie.mp3"
 			});
 		},
 		play: function() { // To avoid multiple jPlayers playing together.
