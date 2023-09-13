@@ -170,16 +170,10 @@ $(document).ready(function()
 					duration:"4.15"
 				},
 				{
-					title:"07.Ndiculele ingoma",
+					title:"06.Ayikho indlela",
 					artist:"Bra Star",
-					mp3:"files/07.Ndiculele ingoma.mp3",
-					duration:"7.33"
-				},
-				{
-					title:"08.Khumbul'ekhaya",
-					artist:"Bra Star",
-					mp3:"files/08.Khumbul'ekhaya.mp3",
-					duration:"4.51"
+					mp3:"files/06.Ayikho indlela.mp3",
+					duration:"4.15"
 				},
 				{
 					title:"09.Khuphukani ma-Afrika",
@@ -211,13 +205,8 @@ $(document).ready(function()
 					mp3:"files/13.Sohlala simdumisa.mp3",
 					duration:"5.18"
 				},
-				{
-					title:"14.Ndikunika uthando",
-					artist:"Bra Star",
-					mp3:"files/14.Ndikunika uthando.mp3",
-					duration:"4.40"
-				},
 				
+								
 
 
 			];
